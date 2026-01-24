@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import src.Radio;
 import src.RadioCarro;
+import src.RadioGrupoX;
 
 /**
  * Clase principal que permite interactuar con la radio desde consola.
